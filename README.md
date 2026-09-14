@@ -14,7 +14,7 @@
 
 # 
 
-# !\[Framework Architecture](Geometric-Cryptanalysis-Framework.jpg)
+# !\[Framework Architecture](geometric-cryptanalysis-framework.jpg)
 
 # 
 
