@@ -1,4 +1,8 @@
-# \# 📐 Hybrid Geometric Cryptanalysis Framework
+# \# Hybrid Geometric Cryptanalysis Framework
+
+# 
+
+# !\[Framework Architecture](geometric\_cryptanalysis\_framework.jpg)
 
 # 
 
@@ -10,23 +14,7 @@
 
 # 
 
-# \## 🖼️ Framework Architecture
-
-# 
-
-# !\[Framework Architecture](geometric\_cryptanalysis\_framework.jpg)
-
-# 
-
-# 
-
-# 
-
-# \---
-
-# 
-
-# \## 📦 Repository Structure
+# \### 📦 Repository Structure
 
 # 
 
@@ -62,35 +50,33 @@
 
 # 
 
-# \## 🛠️ Conceptual Summary
+# \### 🛠️ Conceptual Summary
 
 # 
 
-# \### 📊 Part 1: The 2D Geometric Core Foundation
+# \#### 📊 Part 1: The 2D Geometric Core Foundation
 
-# 1\. \*\*Inducing Physical Shifts:\*\* Exploiting hardware bit-flips or Differential Fault Analysis (DFA) to shatter cipher symmetry and isolate a discrete computational delta ($\\Delta$).
+# \*   \*\*Inducing Physical Shifts:\*\* Exploiting hardware bit-flips or Differential Fault Analysis (DFA) to shatter cipher symmetry and isolate a discrete computational delta ($\\Delta$).
 
-# 2\. \*\*Flat Pythagorean Point-Snapping:\*\* Rewriting $N = p \\times q$ via Fermat's principle into $y^2 + N = x^2$. The AI agent sweeps geometric vector angles over integer coordinates until they snap onto the perfect corners, extracting the secret prime factors without mechanical division loops.
-
-# 
-
-# \### 🧊 Part 2: High-Dimensional Expansion \& Asymmetric Filtering
-
-# 1\. \*\*The Multi-Prime Tensor:\*\* Extending the flat triangle into a multidimensional sphere or coordinate constraint equation:
-
-# &#x20;  $$x\_1^2 + x\_2^2 + \\dots + x\_n^2 = R^2$$
-
-# 2\. \*\*Ternary Asymmetric Matrix:\*\* Introducing intentional asymmetry using trinary states `\[-1, 0, 1]` to model chaotic vector warping reminiscent of the physics Three-Body Problem—paralyzing standard linear defenses.
-
-# 3\. \*\*The Cauchy-Schwarz Scissor:\*\* Mitigating the \*Curse of Dimensionality\* by calculating mathematical upper/lower bounds. This macro-filter immediately slices away 99.99% of empty space, narrowing the search grid into a predictable geometric tunnel for precise integer coordinate resolution.
+# \*   \*\*Flat Pythagorean Point-Snapping:\*\* Rewriting $N = p \\times q$ via Fermat's principle into $y^2 + N = x^2$. The AI agent sweeps geometric vector angles over integer coordinates until they snap onto the perfect corners, extracting the secret prime factors without mechanical division loops.
 
 # 
 
-# \### 🌌 Part 3: Hyper-Spatial Folding \& Blind AI Computation
+# \#### 🧊 Part 2: High-Dimensional Expansion \& Asymmetric Filtering
 
-# 1\. \*\*Homomorphic Spatial Rotations (FHE):\*\* Mapping encrypted workloads as rigid shapes. Operations are translated into pure spatial rotations, avoiding algebraic performance degradation.
+# \*   \*\*The Multi-Prime Tensor:\*\* Extending the flat triangle into a multidimensional sphere or coordinate constraint equation: $x\_1^2 + x\_2^2 + \\dots + x\_n^2 = R^2$
 
-# 2\. \*\*Topological Path-Witnessing (ZKP):\*\* Proving trajectory paths within bounded multi-dimensional spaces without exposing raw coordinate nodes.
+# \*   \*\*Ternary Asymmetric Matrix:\*\* Introducing intentional asymmetry using trinary states `\[-1, 0, 1]` to model chaotic vector warping reminiscent of the physics Three-Body Problem—paralyzing standard linear defenses.
+
+# \*   \*\*The Cauchy-Schwarz Scissor:\*\* Mitigating the \*Curse of Dimensionality\* by calculating mathematical upper/lower bounds. This macro-filter immediately slices away 99.99% of empty space, narrowing the search grid into a predictable geometric tunnel for precise integer coordinate resolution.
+
+# 
+
+# \#### 🌌 Part 3: Hyper-Spatial Folding \& Blind AI Computation
+
+# \*   \*\*Homomorphic Spatial Rotations (FHE):\*\* Mapping encrypted workloads as rigid shapes. Operations are translated into pure spatial rotations, avoiding algebraic performance degradation and keeping computational noise completely flat.
+
+# \*   \*\*Topological Path-Witnessing (ZKP):\*\* Proving trajectory paths within bounded multi-dimensional spaces without exposing raw coordinate nodes, shifting proofs from heavy polynomials to structural boundary checks.
 
 # 
 
@@ -98,7 +84,7 @@
 
 # 
 
-# \## 🚦 Disclaimer
+# \### 🚦 Disclaimer
 
 # This project is created strictly for academic research, theoretical exploration, and crypto-analysis stress-testing.
 
