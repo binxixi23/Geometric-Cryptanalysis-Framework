@@ -2,7 +2,7 @@
 
 # 
 
-# !\[Framework Architecture](./geometric\_cryptanalysis\_framework.jpg)
+# !\[Framework Architecture](/geometric\_cryptanalysis\_framework.jpg)
 
 # 
 
